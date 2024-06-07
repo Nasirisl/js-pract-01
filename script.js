@@ -44,4 +44,12 @@ if(!badal){
 // }
 
 // total bill
- 
+//  
+
+
+
+
+// r.w
+// dvjfbvv
+// ddkkv
+// cvbvbskvsbvbgit 
