@@ -55,4 +55,8 @@ if(!badal){
 // cvbvbskvsbvbgit 
 console.log("heelloooo");
 console.log("hiii");
+console.log("hi");
+console.log("hiii11");
+console.log("hiii222");
+
 // console.log("hiii");
