@@ -50,13 +50,10 @@ if(!badal){
 
 
 // r.w
-// dvjfbvv
-// ddkkv
-// cvbvbskvsbvbgit 
-console.log("heelloooo");
-console.log("hiii");
-console.log("hi");
+
 console.log("hiii11");
 console.log("hiii222");
+console.log("hiii2233");
+console.log("hiii22444");
 
 // console.log("hiii");
