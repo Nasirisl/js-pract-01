@@ -50,10 +50,16 @@ if(!badal){
 
 
 // r.w
-
-console.log("hiii11");
-console.log("hiii222");
-console.log("hiii2233");
+// 
+// 
+// 
+// 
+// console.log("hiii11");
+// console.log("hiii222");
+// console.log("hiii2233");
 console.log("hiii22444");
+console.log("hiii2244");
+console.log("hiii22434");
+console.log("hiii224784");
 
 // console.log("hiii");
