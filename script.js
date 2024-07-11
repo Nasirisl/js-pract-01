@@ -50,10 +50,10 @@ if(!badal){
 
 
 // r.w
+//    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, voluptas minima saepe ab delectus perspiciatis, repudiandae fugiat corrupti qui pariatur est autem unde doloremque recusandae. Illo vero numquam necessitatibus facere.
 // 
 // 
-// 
-// 
+//    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eius, voluptas minima saepe ab delectus perspiciatis, repudiandae fugiat corrupti qui pariatur est autem unde doloremque recusandae. Illo vero numquam necessitatibus facere.
 // console.log("hiii11");
 // console.log("hiii222");
 // console.log("hiii2233");
